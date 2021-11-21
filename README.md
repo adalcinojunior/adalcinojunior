@@ -42,7 +42,7 @@
   <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/>
 </code>
 <code title="NodeJS">
-  <img height="32" src="https://www.flaticon.com/svg/static/icons/svg/919/919825.svg" alt="Nodejs"/>
+  <img height="30" src="https://nodejs.org/static/images/logo.svg" alt="Nodejs"/>
 </code>
 <code title="MongoDB">
   <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
