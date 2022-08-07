@@ -5,17 +5,9 @@
   </a>
   <a href="mailto:adaljunior.inf@gmail.com">
     <img src="https://img.shields.io/badge/Gmail--orange?style=social&logo=gmail" alt="Gmail"/>
-  </a> 
-  <a href="https://github.com/adalcinojunior/adalcinojunior/stargazers">
-    <img src="https://img.shields.io/github/stars/adalcinojunior?style=social" alt="Stars"/>
-  </a>
-  <a href="https://github.com/adalcinojunior/adalcinojunior/network/members">
-    <img src="https://img.shields.io/github/forks/adalcinojunior/adalcinojunior?style=social" alt="Forks"/>
-  </a> 
-  <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/adalcinojunior/adalcinojunior?style=social" alt="Visitors badge" />
-  </a>
+  </a>   
 </p>
+
  
 <p>
   My name is Adalcino Junior, I have a bachelor's degree in Computer Science from the State University of Paraíba.
