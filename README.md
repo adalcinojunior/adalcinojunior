@@ -30,17 +30,10 @@
 **Application and Data**
 
 <code title="Javascript"><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code title="Typescript">
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/>
-</code>
-<code title="NodeJS">
-  <img height="30" src="https://nodejs.org/static/images/logo.svg" alt="Nodejs"/>
-</code>
-<code title="MongoDB">
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
-<code title="Swagger Documentation">
-  <img height="32" src="https://api.iconify.design/logos-swagger.svg" alt="Swagger"/>
-</code>
+<code title="Typescript"><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code title="NodeJS"><img height="32" src="https://nodejs.org/static/images/logo.svg" alt="NodeJS"/></code>
+<code title="MongoDB"><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+<code title="Swagger Documentation"><img height="32" src="https://api.iconify.design/logos-swagger.svg" alt="Swagger Documentation"/></code>
 
 **DevOps**
 
