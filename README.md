@@ -43,5 +43,5 @@
 
 **Business Tools**
 
-<code title="Microssoft Teams"><img height="32" src="https://cdn.worldvectorlogo.com/logos/microsoft-teams.svg" alt="Microssoft Teams"/></code>
+<code title="Microssoft Teams"><img height="32" src="https://cdn.worldvectorlogo.com/logos/microsoft-teams-1.svg" alt="Microssoft Teams"/></code>
 <code title="Trello"><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>
